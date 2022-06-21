@@ -17,3 +17,4 @@ async function announceDinner() {
 }
 
 nativePromiseDinner();
+console.log("What is going on here.");
